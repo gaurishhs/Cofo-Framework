@@ -5,4 +5,4 @@
 - This software is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 # Documentation
-- Please find the hosted documentation [here](https://cofobot.com)
+- Please find the hosted documentation [here](https://gaurishhs.github.io/Cofo-Framework)
