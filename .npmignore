@@ -6,3 +6,4 @@ docs
 .eslintrc.yml
 .gitignore
 yarn.lock
+examples

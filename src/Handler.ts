@@ -104,7 +104,7 @@ export class Handler {
 		}
 
 		// If the command is guildOnly and message doesn't have a guildID aka doesn't belong to a guild, return.
-		if (command.options.guildOnly && msg.guildID) {
+		if (command.options.guildOnly && !msg.guildID) {
 			return;
 		}
 
